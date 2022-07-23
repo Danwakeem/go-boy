@@ -1,0 +1,1 @@
+This was from both the [getting started](https://go.dev/doc/tutorial/getting-started) and [create a go module](https://go.dev/doc/tutorial/create-module) page on the [go site](https://go.dev/).
